@@ -9,3 +9,7 @@
  	2)再执行/home/mall_seller/下的start_tomcat_run.sh文件 
 	(启动tomcat服务器) 命令：
 	./home/mall_seller/start_tomcat_run.sh
+
+
+22
+2
