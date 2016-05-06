@@ -1,0 +1,11 @@
+1:分别登录192.168.6.208/192.168.6.209，执行以下操作
+
+2:切换用户mall_seller  命令：su - mall_seller
+
+3:执行文件：
+	1)先执行目录/home/mall_seller/下的rsync_code_run.sh文件   
+	(拉取代码功能) 命令：
+	./home/mall_seller/rsync_code_run.sh
+ 	2)再执行/home/mall_seller/下的start_tomcat_run.sh文件 
+	(启动tomcat服务器) 命令：
+	./home/mall_seller/start_tomcat_run.sh
